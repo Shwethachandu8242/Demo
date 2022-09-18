@@ -1,0 +1,159 @@
+class ProductPrices{
+	public static void main(String[] allproducts)
+	{
+	
+	double WashingMachine=25000.50;
+	double Vivomobile=28500.88;
+	double lipstick=575.50;
+	double perfumes=1800.00;
+	double laptop_hp=58500.80;
+	double lakmefundation=428.50;
+	double Nokia=10999.00;
+	double kur_kure=20.00;
+	double highliner=250.82;
+	double maskara=150.89;       
+	double funiture=44476.78;               
+	double Skybags=3500.50;
+	double Rasna=25.90;
+	double trends_tshirt=579.50;
+	double malabargold_longchine=450500.80;
+	double Alexa=3000.50;
+	double BMWcar=4690000.00;
+	double Himalaya_facewash=129.50;
+	double tresemmeshampoo=259.59;
+	double amul_icecream=45.50;
+	double colgate=80.00;              
+	double good_day=120.00;
+	double dairy_milk=180.50;
+	double butterfly=1000.00;
+	double tablets_dolo650=30.79;
+	double benadryl=4500.50;
+	double sony_tv=68900.50;
+	double tata_sky=6000.00;
+	double classmate_book=149.50;
+	double nivea_bodyloshion=350.89;
+	double water_girl=180.50;
+	double red_bull=120.99;
+	double blackandwhite=1750.50;
+	double boat_airdopes=1299.99;
+	double philips_haircare=3695.95;
+	double royal_enfield=450000.00;
+	double jio_sim=600.90;
+	double BournVita=160.50;
+	double AirCondition=35500.50;
+	double LG_Microwave=25000.99;
+	double Mona_sewingmachine=13000.00;
+	double Inverter=25938.99;
+	double Apple_Smartwatch=58999.99;
+	double printer=6666.66;
+	double treadmills=9999.99;
+	double indulekha_hairoil=499.99;
+	double harpic=337.00;
+	
+	double[] ProductPrices={WashingMachine,Vivomobile,lipstick,perfumes,laptop_hp,lakmefundation,Nokia,kur_kure,highliner,maskara,funiture,Skybags,
+	Rasna,trends_tshirt,malabargold_longchine,Alexa,BMWcar,Himalaya_facewash,tresemmeshampoo,amul_icecream,colgate,good_day,dairy_milk,butterfly,
+	tablets_dolo650,benadryl,sony_tv,tata_sky,classmate_book,nivea_bodyloshion,water_girl,red_bull,blackandwhite,boat_airdopes,philips_haircare,
+	royal_enfield,jio_sim,BournVita,AirCondition,LG_Microwave,Mona_sewingmachine,Inverter,Apple_Smartwatch,printer,treadmills,
+	indulekha_hairoil,harpic};
+	
+	double DailyUsageProduct=ProductPrices.length;
+	System.out.println("ProductPrices:"+DailyUsageProduct);
+	
+	double ref0=ProductPrices[0];
+	double ref1=ProductPrices[1];
+	double ref2=ProductPrices[2];
+	double ref3=ProductPrices[3];
+	double ref4=ProductPrices[4];
+	double ref5=ProductPrices[5];
+	double ref6=ProductPrices[6];
+	double ref7=ProductPrices[7];
+	double ref8=ProductPrices[8];
+	double ref9=ProductPrices[9];
+	double ref10=ProductPrices[10];
+	double ref11=ProductPrices[11];
+	double ref12=ProductPrices[12];
+	double ref13=ProductPrices[13];
+	double ref14=ProductPrices[14];
+	double ref15=ProductPrices[15];
+	double ref16=ProductPrices[16];
+	double ref17=ProductPrices[17];
+	double ref18=ProductPrices[18];
+	double ref19=ProductPrices[19];
+	double ref20=ProductPrices[20];
+	double ref21=ProductPrices[21];
+	double ref22=ProductPrices[22];
+	double ref23=ProductPrices[23];
+	double ref24=ProductPrices[24];
+	double ref25=ProductPrices[25];
+	double ref26=ProductPrices[26];
+	double ref27=ProductPrices[27];
+	double ref28=ProductPrices[28];
+	double ref29=ProductPrices[29];
+	double ref30=ProductPrices[30];
+	double ref31=ProductPrices[31];
+	double ref32=ProductPrices[32];
+	double ref33=ProductPrices[33];
+	double ref34=ProductPrices[34];
+	double ref35=ProductPrices[35];
+	double ref36=ProductPrices[36];
+	double ref37=ProductPrices[37];
+	double ref38=ProductPrices[38];
+	double ref39=ProductPrices[39];
+	double ref40=ProductPrices[40];
+	double ref41=ProductPrices[41];
+	double ref42=ProductPrices[42];
+	double ref43=ProductPrices[43];
+	double ref44=ProductPrices[44];
+	double ref45=ProductPrices[45];
+	double ref46=ProductPrices[46];
+	System.out.println("product index:"+ref0);
+	System.out.println("product index:"+ref1);
+	System.out.println("product index:"+ref2);
+	System.out.println("product index:"+ref3);
+	System.out.println("product index:"+ref4);
+	System.out.println("product index:"+ref5);
+	System.out.println("product index:"+ref6);
+	System.out.println("product index:"+ref7);
+	System.out.println("product index:"+ref8);
+	System.out.println("product index:"+ref9);
+	System.out.println("product index:"+ref10);
+	System.out.println("product index:"+ref11);
+	System.out.println("product index:"+ref12);
+	System.out.println("product index:"+ref13);
+	System.out.println("product index:"+ref14);
+	System.out.println("product index:"+ref15);
+	System.out.println("product index:"+ref16);
+	System.out.println("product index:"+ref17);
+	System.out.println("product index:"+ref18);
+	System.out.println("product index:"+ref19);
+	System.out.println("product index:"+ref20);
+	System.out.println("product index:"+ref21);
+	System.out.println("product index:"+ref22);
+	System.out.println("product index:"+ref23);
+	System.out.println("product index:"+ref24);
+	System.out.println("product index:"+ref25);
+	System.out.println("product index:"+ref26);
+	System.out.println("product index:"+ref27);
+	System.out.println("product index:"+ref28);
+	System.out.println("product index:"+ref29);
+	System.out.println("product index:"+ref30);
+	System.out.println("product index:"+ref31);
+	System.out.println("product index:"+ref32);
+	System.out.println("product index:"+ref33);
+	System.out.println("product index:"+ref34);
+	System.out.println("product index:"+ref35);
+	System.out.println("product index:"+ref36);
+	System.out.println("product index:"+ref37);
+	System.out.println("product index:"+ref38);
+	System.out.println("product index:"+ref39);
+	System.out.println("product index:"+ref40);
+	System.out.println("product index:"+ref41);
+	System.out.println("product index:"+ref42);
+	System.out.println("product index:"+ref43);
+	System.out.println("product index:"+ref44);
+	System.out.println("product index:"+ref45);
+	System.out.println("product index:"+ref46);
+	 
+	
+	}
+}

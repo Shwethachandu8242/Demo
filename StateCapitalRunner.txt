@@ -1,0 +1,9 @@
+class StateCapitalRunner{
+	
+	public static void main(String[] State)
+	{
+		String ref=StateCapital.getCapitalByState(Karnataka);
+		System.out.println(ref);
+		
+		
+	}
